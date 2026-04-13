@@ -67,7 +67,7 @@ def get_data():
         "clicks": 2310,
         "ctr": 0.02,
         "conversions": 48,
-        "conv_rate": 0.0208",
+        "conv_rate": 0.0208,
         "cost": 3440,
         "cpc": 1.49
     }
